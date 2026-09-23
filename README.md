@@ -1,6 +1,6 @@
 # Databases
 Simple databases for projects.
 <ul>
-  <li><a href="gender.xlsx">Gender database.</a></li>
-  <li><a href="language.xlsx">Language database.</a></li>
+  <li>Gender database(<a href="gender.xlsx">XLSX</a>)</li>
+  <li>Language database(<a href="language.xlsx">XLSX</a>)</li>
 </ul>
