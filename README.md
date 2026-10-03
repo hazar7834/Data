@@ -1,5 +1,6 @@
 # SQL Database Management & Datasets
 Simple datasets for software projects.
+
 # SQL
 SQL code examples.
 <ul>
@@ -11,6 +12,7 @@ SQL code examples.
   <li><a href="data_updating.sql">Data updating</a></li>
   <li><a href="data_deletion.sql">Data deletion</a></li>
 </ul>
+
 # Datasets
 <ul>
   <li>Gender dataset(<a href="gender.xlsx">XLSX</a>)</li>
