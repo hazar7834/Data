@@ -16,3 +16,12 @@
   <li><a href="data_delete.sql">Veri sil</a></li>
   <li><a href="data_select.sql">Veri sorgula</a></li>
 </ul>
+
+# C#-SQL Kod Örnekleri
+<ul>
+  <li><a href="cs_database_connect.cs">Veri tabanı bağlantısı</a></li>
+  <li><a href="cs_data_select.cs">Veri listeleme</a></li>
+  <li><a href="cs_data_insert.cs">Veri ekleme</a></li>
+  <li><a href="cs_data_update.cs">Veri güncelleme</a></li>
+  <li><a href="cs_data_delete.cs">Veri silme</a></li>
+</ul>
