@@ -1,11 +1,11 @@
-# Veri Setleri
+# Datasets
 <ul>
-  <li>Cinsiyetler(<a href="gender.xlsx">XLSX</a>)</li>
-  <li>Diller(<a href="language.xlsx">XLSX</a>)</li>
-  <li>Yerler(Ülkeler, şehirler)(<a href="location.xlsx">XLSX</a>)</li>
+  <li>Genders(<a href="gender.xlsx">XLSX</a>)</li>
+  <li>Languages(<a href="language.xlsx">XLSX</a>)</li>
+  <li>Locations(Country, City, District)(<a href="location.xlsx">XLSX</a>)</li>
 </ul>
 
-# SQL Kod Örnekleri
+# SQL Examples
 <ul>
   <li><a href="database_create.sql">Veri tabanı oluştur</a></li>
   <li><a href="database_delete.sql">Veri tabanı sil</a></li>
@@ -17,11 +17,11 @@
   <li><a href="data_select.sql">Veri sorgula</a></li>
 </ul>
 
-# C#-SQL Kod Örnekleri
+# C# Examples
 <ul>
-  <li><a href="cs_database_connect.cs">Veri tabanı bağlantısı</a></li>
-  <li><a href="cs_data_select.cs">Veri listeleme</a></li>
-  <li><a href="cs_data_insert.cs">Veri ekleme</a></li>
-  <li><a href="cs_data_update.cs">Veri güncelleme</a></li>
-  <li><a href="cs_data_delete.cs">Veri silme</a></li>
+  <li><a href="cs_database_connect.cs">Database connect</a></li>
+  <li><a href="cs_data_select.cs">Data list</a></li>
+  <li><a href="cs_data_insert.cs">Data insert</a></li>
+  <li><a href="cs_data_update.cs">Data update</a></li>
+  <li><a href="cs_data_delete.cs">Data delete</a></li>
 </ul>
