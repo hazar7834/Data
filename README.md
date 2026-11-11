@@ -7,9 +7,10 @@
 
 # SQL Kod Örnekleri
 <ul>
-  <li><a href="database_create.sql">Veri tabanı oluştur.</a></li>
+  <li><a href="database_create.sql">Veri tabanı oluştur</a></li>
   <li><a href="database_delete.sql">Veri tabanı sil</a></li>
   <li><a href="table_create.sql">Tablo oluştur</a></li>
+  <li><a href="table_truncate.sql">Tablo temizle</a></li>
   <li><a href="data_insert.sql">Veri ekle</a></li>
   <li><a href="data_update.sql">Veri güncelle</a></li>
   <li><a href="data_delete.sql">Veri sil</a></li>
